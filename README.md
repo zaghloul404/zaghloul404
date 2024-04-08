@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate developer from Egypt with a background in IT infrastructure</h3>
 
+- 🔭 **I'm currently developing tools to help ESL students expand their vocabulary and ace their exams**
+
 - 📫 How to reach me **zaghloul404 [at] iCloud [dot] com**
 
 <h3 align="left">Connect with me:</h3>
