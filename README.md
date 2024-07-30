@@ -4,7 +4,8 @@
 </h3>
 
 - 🔭 **I'm currently developing tools to help ESL students expand their
-vocabulary and ace their exams** - 📫 How to reach me **zaghloul404 [at] iCloud
+vocabulary and ace their exams**
+- 📫 How to reach me **zaghloul404 [at] iCloud
 [dot] com**
 
 <h3 align="left">Connect with me:</h3>
