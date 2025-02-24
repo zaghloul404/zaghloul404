@@ -1,12 +1,25 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">
-  A passionate developer from Egypt with a background in IT infrastructure
-</h3>
 
-- 🔭 **I'm currently developing tools to help ESL students expand their
-vocabulary and ace their exams**
-- 📫 How to reach me **zaghloul404 [at] iCloud
-[dot] com**
+<h1 align="center">Hi 👋, I'm Mahmoud</h1>
+<h3 align="center">A passionate developer from Egypt with a background in IT infrastructure</h3>
+
+- 🔭 I'm currently building ReadVocab - helping ESL learners enjoy English books without vocabulary barriers
+- 📫 How to reach me **mahmoud [at] readvocab [dot] com**
+
+## 🚀 Featured Projects
+
+### [ReadVocab](https://www.readvocab.com/?via=github) 🎁 40% OFF for GitHub users
+A comprehensive learning platform that transforms English books into interactive vocabulary flashcards:
+- 📚 Growing library of popular books with chapter-by-chapter vocabulary breakdowns
+- 🎯 Perfect for IELTS/TOEFL exam preparation (B1-C1 levels)
+- 🔊 Interactive flashcards with audio, translations, and contextual examples
+- 📈 Structured learning paths with CEFR level filtering (A1-C2)
+- 💎 One-time payment, lifetime access - no subscriptions
+
+### [English Idioms](https://github.com/zaghloul404/englishidioms) ⭐19 🔄5
+A Python package for detecting and identifying English idiomatic expressions:
+- 🔍 Efficiently detects idioms within sentences
+- 🛠️ Integrated into ReadVocab's core functionality
+- 📦 Available as an open-source package
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
