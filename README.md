@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A passionate developer from Egypt with a background in IT infrastructure</h3>
-
-- 🔭 I'm currently building ReadVocab - helping ESL learners enjoy English books without vocabulary barriers
-- 📫 How to reach me **mahmoud [at] readvocab [dot] com**
+<h3 align="center">A passionate developer from Egypt building tools for ESL learners</h3>
 
 ## 🚀 Featured Projects
 
@@ -21,8 +18,10 @@ A Python package for detecting and identifying English idiomatic expressions:
 - 🛠️ Integrated into ReadVocab's core functionality
 - 📦 Available as an open-source package
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Let's Connect</h3>
 <p align="left">
+<a href="mailto:mahmoud@readvocab.com">
+    <img align="center" src="https://img.icons8.com/clouds/100/000000/email.png" alt="Email" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/zaghloul/" target="blank"
     ><img
       align="center"
@@ -41,7 +40,7 @@ A Python package for detecting and identifying English idiomatic expressions:
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Technical Stack</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
@@ -49,8 +48,7 @@ A Python package for detecting and identifying English idiomatic expressions:
       alt="python"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -61,30 +59,26 @@ A Python package for detecting and identifying English idiomatic expressions:
       alt="javascript"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
       alt="svelte"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
 </p>
