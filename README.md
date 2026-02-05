@@ -12,7 +12,7 @@ A comprehensive learning platform that transforms English books into interactive
 - 📈 Structured learning paths with CEFR level filtering (A1-C2)
 - 💎 One-time payment, lifetime access - no subscriptions
 
-### [English Idioms](https://github.com/zaghloul404/englishidioms) ⭐23 🔄5
+### [English Idioms](https://github.com/zaghloul404/englishidioms) ⭐28 🔄8
 A Python package for detecting and identifying English idiomatic expressions:
 - 🔍 Efficiently detects idioms within sentences
 - 🛠️ Integrated into ReadVocab's core functionality
