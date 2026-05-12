@@ -1,18 +1,18 @@
-
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate developer from Egypt building tools for ESL learners</h3>
 
 ## 🚀 Featured Projects
 
-### [ReadVocab](https://www.readvocab.com/?via=github) 🎁 40% OFF for GitHub users
-A comprehensive learning platform that transforms English books into interactive vocabulary flashcards:
-- 📚 Growing library of popular books with chapter-by-chapter vocabulary breakdowns
-- 🎯 Perfect for IELTS/TOEFL exam preparation (B1-C1 levels)
-- 🔊 Interactive flashcards with audio, translations, and contextual examples
-- 📈 Structured learning paths with CEFR level filtering (A1-C2)
-- 💎 One-time payment, lifetime access - no subscriptions
+### [ReadVocab](https://www.readvocab.com/?via=github) — Try it free
+Build your English vocabulary from books you love. Every word you master earns a coin. Every book you finish makes the next one easier.
 
-### [English Idioms](https://github.com/zaghloul404/englishidioms) ⭐28 🔄8
+- 📚 20+ popular English books — all flashcards ready, no setup required
+- 🃏 Swipe-based flashcards: swipe right to bank a word, swipe left to keep studying
+- 🪙 Personal vocabulary bank — your coin count is your vocabulary level
+- 🔊 Audio, translations, and contextual sentence examples for every word
+- 📬 Request any English book — added to the library within 24–48 hours
+
+### [English Idioms](https://github.com/zaghloul404/englishidioms) ⭐29 🔄8
 A Python package for detecting and identifying English idiomatic expressions:
 - 🔍 Efficiently detects idioms within sentences
 - 🛠️ Integrated into ReadVocab's core functionality
@@ -49,11 +49,7 @@ A Python package for detecting and identifying English idiomatic expressions:
       width="40"
       height="40"
     /></a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -67,10 +63,10 @@ A Python package for detecting and identifying English idiomatic expressions:
       width="40"
       height="40"
     /></a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-      alt="svelte"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+      alt="nextjs"
       width="40"
       height="40"
     /></a>
@@ -78,6 +74,13 @@ A Python package for detecting and identifying English idiomatic expressions:
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
+      width="40"
+      height="40"
+    /></a>
+  <a href="https://supabase.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"
+      alt="supabase"
       width="40"
       height="40"
     /></a>
